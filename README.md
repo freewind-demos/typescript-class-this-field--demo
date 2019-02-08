@@ -1,5 +1,5 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Class this[field] Demo
+=================================
 
 ```
 npm install
